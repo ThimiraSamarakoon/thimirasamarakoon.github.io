@@ -1,0 +1,52 @@
+#visible
+{
+    min-height: 100vh;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #E4E4E4;;
+}
+
+.name
+{
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+
+.contact{
+
+    transition: all 0.2s ease-in;
+    width: 32px;
+    height:32px;
+
+}
+
+.gmail{
+    text-decoration: none!important;
+    
+}
+.contact:hover{
+    
+    width:36px;
+    height:36px;
+    
+}
+
+.size
+{
+    max-width:180px;
+}
+
+.fontSize{
+    font-size: 18px!important;
+}
+
+
+.cv{
+    
+    font-size: 16px!important;
+    
+}
+
+
